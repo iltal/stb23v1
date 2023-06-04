@@ -131,7 +131,7 @@
 <dependency>
     <groupId>org.nokogiri</groupId>
     <artifactId>nekohtml</artifactId>
-    <version>2.11.4.noko2</version>
+    <version> 2.10.4.noko2</version>
 </dependency>
 	</dependencies>
 
