@@ -44,7 +44,6 @@
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
-    <version>11</version>
 		</dependency>
 
 		<!-- JAXB API -->
