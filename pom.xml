@@ -131,6 +131,15 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				
 			</plugin>
+<plugin>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-deploy-plugin</artifactId>
+      <configuration>
+        <goals>
+          <goal>deploy</goal>
+        </goals>
+      </configuration>
+</plugin>
 		</plugins>
 	</build>
 
